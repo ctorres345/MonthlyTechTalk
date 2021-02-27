@@ -7,3 +7,11 @@ The purpose of this repository is to hold the resources and work made by the asi
 ## MEETING # 1
 * Dynamic Programming exercises have been added
 * Resources.md has been added with useful links and also a link to the presentation
+
+## MEETING # 2
+* Quick Union, QuickFind and WeightedQuickUnion exercises.
+* Code available in both Java and Python
+
+## MEETING # 3
+* Gap Buffers data structure (sample: simple TextEditor implementation)
+* Aditional studying resources added.
