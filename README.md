@@ -15,3 +15,7 @@ The purpose of this repository is to hold the resources and work made by the asi
 ## MEETING # 3
 * Gap Buffers data structure (sample: simple TextEditor implementation)
 * Aditional studying resources added.
+
+## MEETING # 4
+* Sliding Window Tecnique. Exercise and example in Kotlin added.
+* Aditional studying resources added.
